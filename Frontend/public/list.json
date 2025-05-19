@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "The Great Gatsby",
+    "title": "Classic Novel",
+    "price": 0,
+    "category": "free",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg"
+  },
+  {
+    "id": 2,
+    "name": "JavaScript Essentials",
+    "title": "Programming Book",
+    "price": 25,
+    "category": "paid",
+    "image": "https://m.media-amazon.com/images/I/51b5YG6Y1rL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Yoga for Beginners",
+    "title": "Health & Wellness",
+    "price": 0,
+    "category": "free",
+    "image": "https://cdn.pixabay.com/photo/2017/01/31/13/14/yoga-2029263_1280.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mastering React",
+    "title": "Web Development",
+    "price": 30,
+    "category": "paid",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71Q1Iu4suSL.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Photography Basics",
+    "title": "Art & Photography",
+    "price": 0,
+    "category": "free",
+    "image": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_1280.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Advanced Machine Learning",
+    "title": "Data Science",
+    "price": 45,
+    "category": "paid",
+    "image": "https://m.media-amazon.com/images/I/41Iq0+8QlKL._SX379_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Cooking 101",
+    "title": "Culinary Arts",
+    "price": 0,
+    "category": "free",
+    "image": "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_1280.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Financial Freedom",
+    "title": "Personal Finance",
+    "price": 20,
+    "category": "paid",
+    "image": "https://cdn.pixabay.com/photo/2017/08/10/03/02/money-2616213_1280.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Gardening Guide",
+    "title": "Hobby & Leisure",
+    "price": 0,
+    "category": "free",
+    "image": "https://cdn.pixabay.com/photo/2016/10/31/17/09/plant-1784409_1280.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Photography Masterclass",
+    "title": "Art & Photography",
+    "price": 35,
+    "category": "paid",
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/04/21/camera-1867042_1280.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Meditation Basics",
+    "title": "Health & Wellness",
+    "price": 0,
+    "category": "free",
+    "image": "https://cdn.pixabay.com/photo/2018/04/18/18/56/meditation-3338550_1280.jpg"
+  },
+  {
+    "id": 12,
+    "name": "React Native in Depth",
+    "title": "Mobile Development",
+    "price": 40,
+    "category": "paid",
+    "image": "https://m.media-amazon.com/images/I/51FzN1AwiuL._SX379_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Basic Spanish",
+    "title": "Language Learning",
+    "price": 0,
+    "category": "free",
+    "image": "https://cdn.pixabay.com/photo/2017/08/10/03/37/spain-2617146_1280.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Photography Lighting",
+    "title": "Art & Photography",
+    "price": 28,
+    "category": "paid",
+    "image": "https://cdn.pixabay.com/photo/2018/01/23/19/12/lighting-3109683_1280.jpg"
+  },
+  {
+    "id": 15,
+    "name": "History of Art",
+    "title": "Education",
+    "price": 0,
+    "category": "free",
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/17/39/monalisa-1838774_1280.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Cloud Computing Basics",
+    "title": "Technology",
+    "price": 50,
+    "category": "paid",
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/17/12/cloud-1838926_1280.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Basics of Guitar",
+    "title": "Music",
+    "price": 0,
+    "category": "free",
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/04/30/guitar-1867047_1280.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Advanced CSS",
+    "title": "Web Development",
+    "price": 33,
+    "category": "paid",
+    "image": "https://m.media-amazon.com/images/I/41AJxD5p52L._SX379_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Mindfulness Meditation",
+    "title": "Health & Wellness",
+    "price": 0,
+    "category": "free",
+    "image": "https://cdn.pixabay.com/photo/2017/02/06/20/38/woman-2049463_1280.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Python for Data Science",
+    "title": "Programming",
+    "price": 42,
+    "category": "paid",
+    "image": "https://m.media-amazon.com/images/I/51Y5NI-I5jL._SX379_BO1,204,203,200_.jpg"
+  }
+]

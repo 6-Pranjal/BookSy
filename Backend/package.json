@@ -1,5 +1,5 @@
 {
-    "name": "bookstore",
+    "name": "booksy",
     "version": "1.0.0",
     "description": "mern project",
     "main": "index.js",
@@ -25,5 +25,6 @@
         "express": "^4.18.3",
         "mongoose": "^8.2.2",
         "nodemon": "^3.1.0"
-    }
+    },
+    "devDependencies": {}
 }
